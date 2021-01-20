@@ -1,0 +1,58 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  border-color: grey;
+  width: 20%
+}
+
+h1, h3 {
+  color: #66BFBF;
+
+}
+
+.skills{
+  font-family:cursive;
+}
+
+.links{
+  background-color: inherit;
+}
+
+.link:hover{
+  font-size: 20px;
+  color: red;
+  transition: 0.5s;
+}
+
+.rating{
+  font-size: 25px;
+  transition: 0.5s;
+}
+
+.r1:hover{
+  font-size: 35px;
+  transition: 0.5s;
+  
+}
+.r2:hover{
+  font-size: 35px;
+  transition: 0.5s;
+}
+.r3:hover{
+  font-size: 35px;
+  transition: 0.5s;
+}
+.r4:hover{
+  font-size: 35px;
+  transition: 0.5s;
+}
+.r5:hover{
+  font-size: 35px;
+  transition: 0.5s;
+}
